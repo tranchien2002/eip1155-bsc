@@ -1,0 +1,7 @@
+node_modules/
+.env
+generated/
+artifacts/
+cache/
+deployments/localhost_*
+contracts.json
